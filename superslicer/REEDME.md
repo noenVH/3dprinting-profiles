@@ -1,5 +1,6 @@
 # 3dprinting-profiles
 slicer profiles for the printers at the fablab munich
+
 für die instalation brauchst du:
 den superslicer version 2.4.58.2 oder neuer https://github.com/supermerill/SuperSlicer/releases/tag/2.4.58.2
 die ini datei aus dem superslicer reop für den drucker den du benutzen möchtest herunterladen 
